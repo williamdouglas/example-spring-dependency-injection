@@ -1,6 +1,6 @@
-package com.example.examplespringdependencyinjection.service;
+package com.example.examplespringdependencyinjection.listener;
 
-import com.example.examplespringdependencyinjection.listener.NotificacaoService;
+import com.example.examplespringdependencyinjection.service.ClienteAtivadoEvent;
 
 import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Component;
